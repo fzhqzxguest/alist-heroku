@@ -5,15 +5,15 @@
   "env": {
     "ADATABASE": {
        "description": "数据库类型（sqlite3 / mysql）",
-       "value": "mysql"
+       "value": "sqlite3"
     },
     "BSQLUSER": {
        "description": "MySQL 用户名（数据库类型为远程 MySQL 时需要更改）",
-       "value": "fzhqzxguest"
+       "value": "root"
     },
     "CSQLPASSWORD": {
        "description": "MySQL 密码（数据库类型为远程 MySQL 时需要更改）",
-       "value": "123456789"
+       "value": "123456"
     },
     "DSQLHOST": {
        "description": "MySQL 主机地址（数据库类型为远程 MySQL 时需要更改）",
